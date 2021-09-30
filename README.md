@@ -10,3 +10,4 @@ The Dockerfile and source code are located in this GitHub repository and are nam
 The screenshot for running Jupyter notebook that is provided from this docker image is called  `mmlspark_screenshot.png`.
 
 ### Extra Credit:
+The screenshots of my first docker container deployed to Kubernetes Engine on GCP is called `kubernetes_deploy_log.png` and `kubernetes_deploy_detail.png`.
